@@ -1,2 +1,3 @@
-Cake/tmp/**
-Cake/logs/**
+Cake/tmp/**/*.*
+Cake/logs/**/*.*
+Cake/vendor/**/*.*
