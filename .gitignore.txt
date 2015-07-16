@@ -1,4 +1,0 @@
-Cake/vendor/*
-Cake/config/app.php
-Cake/tmp/*
-Cake/logs/*
